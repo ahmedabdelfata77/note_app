@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class NoteNppBar extends StatelessWidget {
-  const NoteNppBar({
+class NoteAppBar extends StatelessWidget {
+  const NoteAppBar({
     super.key,
   });
 
